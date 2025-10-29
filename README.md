@@ -188,12 +188,6 @@ Contributions are welcome! Here's how you can help:
 - **Papers**: State-of-the-art research papers implemented
 - **Documentation**: Official docs for TensorFlow, PyTorch, Scikit-learn
 
-## 📞 Connect
-
-- **LinkedIn**: [Vansh Sharma](https://linkedin.com/in/vansh7nvc)
-- **GitHub**: [@vansh7nvc](https://github.com/vansh7nvc)
-- **Email**: vansh7nvc@gmail.com
-
 ---
 
 ⭐ **If you found this repository helpful, please consider giving it a star!** ⭐
